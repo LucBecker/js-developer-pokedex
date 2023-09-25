@@ -5,4 +5,8 @@
     type;
     types = [];
     photo;
+    ability;
+    abilities = [];
+    height;
+    weight;
  }
